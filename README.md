@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **OVCAS Projects**
 
-- 📫 How to reach me **vchenn6@uic.edu**
+- 📫 How to reach me **venkatarohithch@gmail.com**
 
 <h3 align="left">Education:</h3>
 <ul>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Work Experience:</h3>
 <ul>
-  <li>Graduate Software Engineer, OVCAS , University of Illinois at Chicago (Dec 2023 - Present)</li>
+  <li>Graduate Software Engineer, OVCAS , University of Illinois at Chicago (Dec 2023 - May 2025)</li>
   <li>Software Developer, Honeywell, Bengaluru, India (Aug 2021 - Aug 2023)</li>
   <li>Software Developer Intern, Honeywell, Bengaluru, India (Jan 2021 - Aug 2021)</li>
 </ul>
