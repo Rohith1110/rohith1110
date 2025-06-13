@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith Chennareddy</h1>
-<h3 align="center">🎓 Graduate Software Engineer | Full-Stack Developer | Andriod Developer | MSCS Student</h3>
+<h3 align="center"> Software Engineer | Full-Stack Developer | Andriod Developer </h3>
 <h3 align="center">🔍 Passionate about crafting scalable software solutions, optimizing workflows, and driving innovation.</h3>
-<h3 align="center">📍 Chicago, IL</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith1110&label=Profile%20views&color=0e75b6&style=flat" alt="rohith1110" /> </p>
